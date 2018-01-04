@@ -1,2 +1,0 @@
-# jadeite
-jadeite config file
